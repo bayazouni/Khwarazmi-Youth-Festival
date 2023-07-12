@@ -1,0 +1,67 @@
+﻿<!doctype html>
+
+<html>
+<head>
+<link rel="stylesheet" href="assets/css/style.css">
+<title>
+ايده ثنا عوني براي جشنواره نوجوان خوارزمی 
+</title>
+<link rel="icon" type="image/png" href="assets/image/favicon.png"/>
+</head>
+
+<body>
+
+<!--start menu-->
+
+<div class="nav">
+
+<ul>
+<li >
+<img class="logo" src="assets/image/logo.png"/>
+</li>
+<li>
+<a href="#">صفحه اصلي</a>
+</li>
+<li>
+<a href="انگلیسی .html">انگليسي </a>
+</li>
+<li>
+<a href="index.html">فارسی </a>
+</li>
+<li>
+<a href="مترجم .txt">مترجم</a>
+<img class="logo" src="assets/image/images.png"/>
+</li>
+<li>
+<a href="گوگل.txt">گوگل</a>
+<img class="logo" src="assets/image/crom.png"/>
+</li>
+<li>
+<a href="result (5).html">اسکرج</a>
+<img class="logo" src="assets/image/skrash.png"/>
+</li>
+</ul>
+</div>
+
+<!--end menu-->
+<!--start hero-->
+<div class="hero">
+<h1 class="hero-title" >
+ايده ثنا عوني براي جشنواره نوجوان خوارزمی  
+</h1>
+<p class="hero-text">اين سايت اولين سايت رسمي براي انتشار توضيحاتي راجب ايده خانم ثنا عوني براي جشنواره  نو جوان خوارزمی 
+</p>
+<div class="hero-btns">
+<a href="خوارزمی فارسی.html" class="hero-button" href="خوارزمی فارسی.html">
+جشنواره خوارزمی 
+</a>
+<a href="توضیحات ایده.html" class="hero-button" href="توضیحات ایده.html">
+درباره ما 
+</a>
+</div>
+</div>
+<!--end hero-->
+
+</body>
+
+</html>
